@@ -13,7 +13,12 @@
  // boolean =>true/false
  //null=>standalone value 
  //undefined =>
-    //symnol =>
+    //symnol =>unique
+
+ //object 
+
+ console.log(typeof"happy");
+ 
 
 
 
