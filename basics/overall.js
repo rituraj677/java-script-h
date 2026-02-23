@@ -31,7 +31,34 @@
 // //Function
 
 // const myfunction=function(){
-//     console.log("hello world")
+//     console.log("user is loggedIn")
 // }
  
 console.log(typeof anotherId)
+
+
+//+++++++++++++++++++++++++
+
+//stack,Heap (memory)
+// when stack memory is used ? when (primitve) datatype
+//heap? when (non- primitve) dataype
+
+// let myyoutubeame="Happy"
+
+// let anothername = myyoutubeam
+
+
+ //****Memory Management*//
+
+//Stack(primitve) ,Heap(Non-primitive)
+
+let myname ="happy"
+let anothername=myname
+console.log(anothername)
+
+
+
+
+
+
+                        
