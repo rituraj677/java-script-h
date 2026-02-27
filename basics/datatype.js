@@ -5,20 +5,20 @@
  let state=null //it means this is empty
 
  let age =22
-//  let isLoggedIn=false
+ let isLoggedIn=false
 
- // number =>2 to power 53
- //bigint     
- //string 
- // boolean =>true/false
+ number =>2 //to power 53
+ bigint     
+ string 
+ boolean =>true/false
  //null=>standalone value 
- //undefined =>
-    //symnol =>unique
+ undefined =>
+    symnol =>unique
 
- //object 
+ object 
 
-//  console.log(typeof null);//oject
-//  console.log(typeof undefined);//undefined
+ console.log(typeof null);//oject
+ console.log(typeof undefined);//undefined
 
  let score="33abc";
 //  console.log(typeof score );
@@ -29,7 +29,7 @@
 
  
  //"33">=33//can be converted into number but 
- //"33abc "=willl not convert into number so it will give nAn  
+ //"33abc "=will not convert into number so it will give nAn  
  //true=>1;false=>0
   
 

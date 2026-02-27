@@ -1,10 +1,10 @@
 
-//console.log(2+3)
-//console.log(2*3)
-//console.log(2/3)
-//console.log(2+3)
-//console.log(2%3)
-//console.log()
+console.log(2+3)
+console.log(2*3)
+console.log(2/3)
+console.log(2+3)
+console.log(2%3)
+console.log()
 ////console.log(2**3)//used in powers
 
 
@@ -12,25 +12,25 @@
 let str1="hello"
 let str2="happpy"
 
-// let str3=str1+str2
-// console.log(str3)
+let str3=str1+str2
+console.log(str3)
 
-// console.log("1"+2)
-//  console.log(1+"2")
-//  console.log("1"+2+2)
-//  console.log(1+2+"3")
+console.log("1"+2)
+ console.log(1+"2")
+ console.log("1"+2+2)
+ console.log(1+2+"3")
  // when string comes first then after it every elemnt is considerd as string and when it comes last then firslty before work done then string will come 
 
-// console.log(true)
-// console.log(+true)
+console.log(true)
+console.log(+true)
 
-// let num1,num2,num3
+let num1,num2,num3
 
-// num1=num2=num3=2+2//this is very bad in przctice
+num1=num2=num3=2+2//this is very bad in practice
 
-// let gamecounter =100;
-// gamecounter++;
-// console.log(gamecounter)
+let gamecounter =100;
+gamecounter++;
+console.log(gamecounter)
 
 //****conditional operators ********
 // /
