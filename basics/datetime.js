@@ -1,13 +1,13 @@
-//   let mydate=new Date()
-//   console.log(mydate.toString());
-//   console.log(mydate.toDateString())
-//   console.log(mydate.toISOString())
-//   console.log(mydate.toJSON())
-//   console.log(mydate.toLocaleDateString())
-//   console.log(mydate.toLocaleString())
-//   console.log(mydate.toLocaleTimeString())
-//   console.log(mydate.toTimeString())
-//  console.log(typeof mydate)
+  let mydate=new Date()
+  console.log(mydate.toString());
+  console.log(mydate.toDateString())
+  console.log(mydate.toISOString())
+  console.log(mydate.toJSON())
+  console.log(mydate.toLocaleDateString())
+  console.log(mydate.toLocaleString())
+  console.log(mydate.toLocaleTimeString())
+  console.log(mydate.toTimeString())
+ console.log(typeof mydate)
    
 // THIS IS ALL THE METHODS TO SHOW THE OUTPUT IN .TO TYPE
  let mycreatedDate= new Date("02-27-2026  ")
