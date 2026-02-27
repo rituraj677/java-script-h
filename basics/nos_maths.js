@@ -1,5 +1,5 @@
-// const score=400
-// console.log(score)
+ const score=400
+ console.log(score)
 
 // const balance =new Number(100)
 // console.log(balance)
@@ -33,6 +33,14 @@ console.log(Math.floor(Math.random()*10) +1)
 
 const min=10
 const max=20
+//General Formula (Very Important)
 
+//To generate a random number between min and max:
+
+//Math.floor(Math.random() * (max - min + 1)) + min;
 console.log(Math.floor(Math.random() * (max-min+1))+min )
+//Math.random() is used to generate a random decimal number.
+
+//👉 It gives a number between 0 (inclusive) and 1 (exclusive).
+
 
