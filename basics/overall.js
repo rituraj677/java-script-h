@@ -43,9 +43,9 @@ console.log(typeof anotherId)
 // when stack memory is used ? when (primitve) datatype
 //heap? when (non- primitve) dataype
 
-// let myyoutubeame="Happy"
+let myyoutubeame="Happy"
 
-// let anothername = myyoutubeam
+//let anothername = myyoutubeam
 
 
  //****Memory Management*//
